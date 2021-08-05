@@ -1,0 +1,9 @@
+{
+    "twitter_id": "YOUR_TWITTER_ID",
+    "twitter_id_2":"YOUR_TWITTER_ID_2",
+    "consumer": "YOUR_CONSUMER_ID",
+    "consumer_secret":"YOUR_CONSUMER_ID_SECRET",
+    "token": "YOUR_API_TOKEN",
+    "token_secret": "YOUR_API_TOKEN_SECRET",
+    "myHandle": "YOUR_TWITTER_HANDLE(@username)"
+}
